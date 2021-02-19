@@ -3,10 +3,11 @@
 # ANZ@Data
 This is a virtual internship opportunity provided by Forage. There are two tasks that are provided in this virtual internship. This repository will only discuss and highlight Task 1. 
 
+Task 1 includes the activity to segment the dataset and draw unique insights, including visualisation of the transactions.
+
 # Insights
 [Read the report](https://github.com/jonchia/ANZ-Data/blob/main/Data%40ANZ_Report.pdf)
 
-Task 1 includes the activity to segment the dataset and draw unique insights, including visualisation of the transactions.
 # Files & Data 
 **Code script file:** There is only one code script file, which is as follows:
 * **Task_1.ipynb** - For analysing and visualising the data
